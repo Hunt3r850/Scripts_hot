@@ -16,7 +16,7 @@ Este repositorio contiene una colección de scripts personalizados que pueden se
 
 1. Clona el repositorio en tu computadora.
 2. Copia los scripts personalizados en la carpeta `scripts` del repositorio.
-3. Ejecuta los scripts utilizando el comando `python script.py` en la terminal.
+3. Ejecuta los scripts utilizando el comando `python3 script.py` en la terminal.
 
 **Notas**
 
@@ -27,9 +27,6 @@ Este repositorio contiene una colección de scripts personalizados que pueden se
 
 Este repositorio está licenciado bajo la licencia MIT.
 
-**Historial**
-
-* [31/10/2024] - [Descripción del cambio]
 
 **Licencia**
 
@@ -37,7 +34,7 @@ MIT
 
 **Copyright**
 
-[31/10/2024] - [Hunt3r850]
+Hunt3r850
 
 **Información adicional**
 
